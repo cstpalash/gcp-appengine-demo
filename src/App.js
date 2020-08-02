@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I am a simple react app, running inside GCP AppEngine
+          I am a simple react app, running inside GCP AppEngine. Happy learning.
         </p>
         <a
           className="App-link"
